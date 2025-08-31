@@ -12,7 +12,7 @@ Calcula o Índice de Massa Corporal (IMC) a partir de **peso** e **altura**.
 Basta abrir o arquivo `index.html` no navegador.
 
 ## 📸 Prévia
-![Preview](./assets/imagens/Captura de Tela (34).png)
+![Preview](./assets/imagens/imagem-Projeto.png)
 
 ## 📄 Status
 ✅ Finalizado (sujeito a melhorias).
