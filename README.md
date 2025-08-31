@@ -1,4 +1,4 @@
-# 🧮 Calculadora de IMC
+## 🧮 Calculadora de IMC
 
 Projeto simples para praticar **JavaScript** (com **HTML** e **CSS**).  
 Calcula o Índice de Massa Corporal (IMC) a partir de **peso** e **altura**.
