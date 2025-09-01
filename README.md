@@ -8,7 +8,7 @@ Calcula o Índice de Massa Corporal (IMC) a partir de **peso** e **altura**.
 - CSS
 - JavaScript
 
-##📘 O que aprendi neste projeto
+## 📘 O que aprendi neste projeto
 
 ✅ Manipular o DOM com querySelector  
 ✅ Usar eventos como addEventListener('submit', ...)  
@@ -18,7 +18,7 @@ Calcula o Índice de Massa Corporal (IMC) a partir de **peso** e **altura**.
 ✅ Mostrar resultados na tela usando innerHTML  
 ✅ Prevenir o comportamento padrão do formulário com event.preventDefault()  
 
-##🎯 Funcionalidades  
+## 🎯 Funcionalidades  
 
 Inserir peso e altura  
 Calcular o IMC automaticamente  
